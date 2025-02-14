@@ -1,0 +1,559 @@
+
+Most Harmful (High Risk, Known Carcinogens, Toxic Substances)
+
+
+1. Formaldehyde (gas)
+Category: Carcinogen, irritant
+Uses: Used in the production of resins, textiles, and as a preservative in laboratories.
+Health Risks: Formaldehyde is a known carcinogen and can cause irritation of the eyes, skin, and respiratory system. Long-term exposure is linked to cancers of the nasopharynx, sinuses, and leukemia.
+Exposure Routes: Inhalation, skin contact, and ingestion.
+
+2. Benzene
+Category: Carcinogen, neurotoxin
+Uses: Solvent in industrial processes, in the production of chemicals like styrene, and in gasoline.
+Health Risks: Chronic exposure to benzene is known to cause blood disorders like leukemia, anemia, and immune system suppression.
+Exposure Routes: Inhalation, skin contact.
+
+3. Lead acetate
+Category: Neurotoxin, carcinogen
+Uses: Historically used in cosmetics, hair dyes, and in some industrial processes.
+Health Risks: Lead exposure can cause developmental delays, cognitive impairment, and nervous system damage. It is especially harmful to children.
+Exposure Routes: Ingestion, skin contact.
+
+4. Lead
+Category: Neurotoxin, carcinogen
+Uses: Found in batteries, some pigments, and in construction materials.
+Health Risks: Lead poisoning can cause cognitive and developmental issues, kidney damage, and affect the nervous system. It is a particular risk to children.
+Exposure Routes: Ingestion, inhalation.
+
+5. Arsenic (inorganic arsenic compounds)
+Category: Carcinogen, toxic
+Uses: Used in pesticides, wood preservatives, and in some industrial processes.
+Health Risks: Long-term exposure is associated with skin cancer, lung cancer, bladder cancer, and cardiovascular issues.
+Exposure Routes: Ingestion, inhalation.
+
+6. Cadmium and cadmium compounds
+Category: Carcinogen, toxic to kidneys
+Uses: Used in batteries, pigments, and coatings.
+Health Risks: Cadmium is a carcinogen and is toxic to the kidneys and lungs. It can also cause bone disease.
+Exposure Routes: Inhalation, ingestion.
+
+7. Mercury and mercury compounds
+Category: Neurotoxin, carcinogen
+Uses: Used in thermometers, dental amalgams, and some industrial processes.
+Health Risks: Mercury is highly toxic to the nervous system and can cause developmental issues, tremors, memory problems, and kidney damage.
+Exposure Routes: Inhalation, ingestion, skin contact.
+
+8. 1,4-Dioxane
+Category: Carcinogen, irritant
+Uses: Used as a solvent in industrial and cosmetic products.
+Health Risks: It is a probable human carcinogen and can cause irritation to the eyes, skin, and respiratory system.
+Exposure Routes: Inhalation, skin contact, ingestion.
+
+9. Acrylamide
+Category: Carcinogen, neurotoxin
+Uses: Used in the production of plastics, dyes, and as a processing aid in food.
+Health Risks: Acrylamide has been linked to cancer and neurotoxic effects, including nervous system damage.
+Exposure Routes: Inhalation, ingestion, skin contact.
+
+10. Polygeenan
+Category: Toxic, irritant
+Uses: Used as a gelling agent or thickener.
+Health Risks: It is known to cause toxicity and is a skin and eye irritant. It has been linked to gastrointestinal issues.
+Exposure Routes: Skin contact, ingestion.
+
+11. Methanol
+Category: Toxic, irritant
+Uses: Used as a solvent, antifreeze, and fuel.
+Health Risks: Methanol is highly toxic and can cause blindness, kidney failure, and death if ingested.
+Exposure Routes: Inhalation, ingestion, skin contact.
+
+12. N-Nitrosodimethylamine
+Category: Carcinogen
+Uses: Used in industrial processes and found as a contaminant in some chemicals.
+Health Risks: It is a potent carcinogen, linked to liver and lung cancer.
+Exposure Routes: Inhalation, ingestion.
+
+13. N-Nitrosodiethanolamine
+Category: Carcinogen
+Uses: Found as a contaminant in some industrial products, particularly in personal care products.
+Health Risks: It is a potential carcinogen, linked to liver and kidney damage.
+Exposure Routes: Skin contact, inhalation.
+
+14. Benz[a]anthracene
+Category: Carcinogen
+Uses: Found in coal tar, tobacco smoke, and as a byproduct of combustion.
+Health Risks: It is a known carcinogen, associated with skin and lung cancers.
+Exposure Routes: Inhalation, skin contact.
+
+15. Benzo[a]pyrene
+Category: Carcinogen
+Uses: Found in tobacco smoke, diesel exhaust, and as a byproduct of combustion.
+Health Risks: It is a potent carcinogen, linked to lung, skin, and other cancers.
+Exposure Routes: Inhalation, skin contact.
+
+16. Methylene chloride (Dichloromethane)
+Category: Carcinogen, neurotoxin
+Uses: Used as a solvent in paint removers, adhesives, and some industrial processes.
+Health Risks: It can cause headaches, dizziness, liver damage, and has been linked to cancer.
+Exposure Routes: Inhalation, skin contact.
+
+17. Ethylene oxide
+Category: Carcinogen, neurotoxin
+Uses: Used in the sterilization of medical equipment and in the production of chemicals.
+Health Risks: Known to cause cancer, reproductive harm, and neurological damage.
+Exposure Routes: Inhalation, skin contact.
+
+18. Ethyl acrylate
+Category: Carcinogen, irritant
+Uses: Used in the production of polymers and resins.
+Health Risks: Ethyl acrylate is a known carcinogen and can irritate the eyes, skin, and respiratory system.
+Exposure Routes: Inhalation, skin contact.
+
+19. Acetaldehyde
+Category: Carcinogen, irritant
+Uses: Produced during alcohol metabolism and used in the production of acetic acid and other chemicals.
+Health Risks: It can cause eye and skin irritation and has been linked to cancer.
+Exposure Routes: Inhalation, skin contact.
+
+20. Dichloroacetic acid
+Category: Toxic, potential carcinogen
+Uses: Used in some industrial processes, including the production of chemicals and pesticides.
+Health Risks: It has been linked to cancer and liver toxicity.
+Exposure Routes: Inhalation, skin contact.
+
+21. Styrene
+Category: Carcinogen, neurotoxin
+Uses: Used in the production of plastics and synthetic rubber.
+Health Risks: Long-term exposure can cause neurotoxicity, liver damage, and cancer.
+Exposure Routes: Inhalation, skin contact.
+
+22. Di-n-butyl phthalate (DBP)
+Category: Endocrine disruptor, reproductive toxicant
+Uses: Used in plastics and as a plasticizer in consumer goods.
+Health Risks: DBP is a suspected endocrine disruptor, linked to reproductive harm and developmental issues.
+Exposure Routes: Ingestion, skin contact.
+
+23. Cocamide DEA (Diethanolamine)
+Category: Carcinogen, irritant
+Uses: Used in personal care products as a surfactant and foaming agent.
+Health Risks: Can form carcinogenic nitrosamines when combined with nitrites, and may cause skin and eye irritation.
+Exposure Routes: Skin contact.
+
+24. Toluene
+Category: Neurotoxin, irritant
+Uses: Used as a solvent in paints, coatings, and adhesives.
+Health Risks: Chronic exposure can cause damage to the nervous system, liver, and kidneys. It can also cause dizziness and headaches.
+Exposure Routes: Inhalation, skin contact.
+
+25. Sodium Bromate
+Category: Carcinogen, toxic
+Uses: Used in the production of certain chemicals and in the food industry as a flour improver.
+Health Risks: Sodium bromate is a carcinogen and can cause kidney damage and other health issues.
+Exposure Routes: Ingestion, inhalation.
+
+
+Very Harmful 
+
+
+1. Titanium dioxide (airborne, unbound particles of respirable size)
+Category: Carcinogen (when inhaled), irritant
+Uses: Commonly used in sunscreens, paints, and as a pigment in cosmetics.
+Health Risks: Titanium dioxide in its inhaled, respirable form is considered a potential carcinogen by the International Agency for Research on Cancer (IARC). It can cause lung irritation and long-term inhalation exposure may increase the risk of lung cancer.
+Exposure Routes: Inhalation.
+
+2. Chromium (hexavalent compounds)
+Category: Carcinogen, toxic
+Uses: Used in industrial processes, including chrome plating, leather tanning, and in pigments.
+Health Risks: Hexavalent chromium compounds are known carcinogens. Chronic exposure can lead to lung cancer, kidney damage, and respiratory issues.
+Exposure Routes: Inhalation, skin contact.
+
+3. Methyleugenol
+Category: Carcinogen (suspected)
+Uses: Used in fragrances, flavorings, and cosmetics.
+Health Risks: Methyleugenol is suspected of being a carcinogen based on animal studies. It can cause skin irritation and allergic reactions in sensitive individuals.
+Exposure Routes: Skin contact, inhalation.
+
+4. Benzophenone-3
+Category: Endocrine disruptor, irritant
+Uses: Commonly used in sunscreens, cosmetics, and personal care products as a UV filter.
+Health Risks: Benzophenone-3 has been shown to act as an endocrine disruptor, potentially interfering with hormone function. It may also cause skin allergies and irritation.
+Exposure Routes: Skin contact, absorption through the skin.
+
+5. Cocamide diethanolamine (DEA)
+Category: Carcinogen (when combined with nitrites), irritant
+Uses: Used as a surfactant in personal care products such as shampoos, soaps, and bubble bath.
+Health Risks: Cocamide DEA can form carcinogenic nitrosamines when it reacts with nitrites. It can also cause skin and eye irritation.
+Exposure Routes: Skin contact, inhalation.
+
+6. Talc (containing asbestiform fibers)
+Category: Carcinogen (when contaminated with asbestos), lung irritant
+Uses: Used in cosmetics, baby powders, and industrial applications.
+Health Risks: Talc that contains asbestiform fibers is linked to lung cancer, mesothelioma, and respiratory issues. Even talc without asbestos can cause lung irritation if inhaled.
+Exposure Routes: Inhalation, skin contact.
+
+7. Cocamide MEA (Monoethanolamine)
+Category: Irritant, potential carcinogen
+Uses: Used as a surfactant and emulsifying agent in personal care products such as shampoos and lotions.
+Health Risks: Monoethanolamine can irritate the skin, eyes, and respiratory system. When combined with nitrites, it can form carcinogenic nitrosamines.
+Exposure Routes: Skin contact, inhalation.
+
+8. Diethanolamine
+Category: Irritant, potential carcinogen
+Uses: Used as a surfactant in personal care products, detergents, and cosmetics.
+Health Risks: Diethanolamine is known to cause skin and eye irritation. It can also form nitrosamines, which are carcinogenic, when combined with nitrites.
+Exposure Routes: Skin contact, inhalation.
+
+9. Benzophenone-2
+Category: Endocrine disruptor, irritant
+Uses: Used in sunscreen and other personal care products as a UV filter.
+Health Risks: Benzophenone-2 has been shown to act as an endocrine disruptor, potentially interfering with hormone function. It may also cause skin irritation.
+Exposure Routes: Skin contact, absorption.
+
+10. Caffeic acid
+Category: Antioxidant
+Uses: Found in foods and beverages (like coffee) and used in cosmetics for its antioxidant properties.
+Health Risks: Caffeic acid is generally considered safe but can cause skin irritation in some sensitive individuals.
+Exposure Routes: Skin contact, ingestion.
+
+11. Benzophenone-4
+Category: Endocrine disruptor, irritant
+Uses: Used as a UV filter in sunscreens and other personal care products.
+Health Risks: Benzophenone-4 has been shown to have endocrine-disrupting effects and may also cause skin irritation in some people.
+Exposure Routes: Skin contact, absorption.
+
+12. Caffeine
+Category: Stimulant
+Uses: Used in beverages (coffee, tea), energy drinks, and in cosmetics for its stimulating and antioxidant properties.
+Health Risks: Caffeine is generally considered safe in moderate amounts. However, excessive intake can cause insomnia, jitteriness, and elevated heart rate.
+Exposure Routes: Ingestion, skin contact.
+
+13. Musk xylene
+Category: Environmental toxin, irritant
+Uses: Used in fragrances and cosmetics as a scent enhancer.
+Health Risks: Musk xylene is persistent in the environment and can accumulate in living organisms. It has been shown to cause skin and eye irritation.
+Exposure Routes: Skin contact, inhalation.
+
+14. Acetylsalicylic acid (Aspirin)
+Category: Pain reliever, anti-inflammatory
+Uses: Commonly used for pain relief, inflammation reduction, and as a blood thinner.
+Health Risks: Aspirin can cause gastrointestinal issues, bleeding, and allergic reactions in some people, particularly in those with aspirin sensitivities.
+Exposure Routes: Oral ingestion.
+
+15. Phenacetin
+Category: Analgesic (withdrawn from market in many places)
+Uses: Previously used as a pain reliever and fever reducer.
+Health Risks: Phenacetin was withdrawn from the market due to its links to kidney damage and cancer. It is now considered unsafe.
+Exposure Routes: Oral ingestion.
+
+16. Pulegone
+Category: Toxic, neurotoxic
+Uses: Found in mint oils and used as a flavoring and fragrance.
+Health Risks: Pulegone has been linked to liver damage and can be neurotoxic in high doses.
+Exposure Routes: Ingestion, skin contact.
+
+17. Aloe vera, non-decolorized whole leaf extract
+Category: Laxative, skin care agent
+Uses: Used in cosmetics, skin care products, and as a mild laxative.
+Health Risks: The whole leaf extract can contain compounds that are toxic when ingested, leading to gastrointestinal issues and other adverse effects.
+Exposure Routes: Oral ingestion (in large quantities), skin contact.
+
+18. C.I. Acid Red 114
+Category: Synthetic dye
+Uses: Used in cosmetics and personal care products as a colorant.
+Health Risks: Some synthetic dyes have been linked to allergic reactions and other skin issues, though C.I. Acid Red 114 is generally considered safe in regulated amounts.
+Exposure Routes: Skin contact.
+
+19. Ginkgo biloba extract
+Category: Herbal supplement, antioxidant
+Uses: Used as a supplement for cognitive enhancement and circulation improvement.
+Health Risks: Ginkgo biloba may cause gastrointestinal issues, headaches, and allergic reactions in some individuals.
+Exposure Routes: Oral ingestion.
+
+20. Talc (powder)
+Category: Carcinogen (when contaminated with asbestos)
+Uses: Used in baby powders, cosmetics, and industrial applications.
+Health Risks: Talc powder that contains asbestiform fibers can cause lung cancer and mesothelioma. Pure talc without asbestos is less risky, though still potentially irritating to the lungs if inhaled.
+Exposure Routes: Inhalation, skin contact.
+
+21. Cocamide MEA
+Category: Irritant, potential carcinogen
+Uses: Used as a surfactant and emulsifying agent in personal care products.
+Health Risks: Cocamide MEA can cause skin and eye irritation, and it may form nitrosamines (potential carcinogens) in the presence of nitrites.
+Exposure Routes: Skin contact, inhalation.
+
+
+
+Moderately Harmful 
+
+1. Retinol
+Category: Vitamin A, skin care agent
+Uses: Commonly used in skin care products for its anti-aging and acne treatment properties. It promotes cell turnover and collagen production.
+Health Risks: High concentrations or improper use can lead to skin irritation, dryness, and redness. Overuse can cause toxicity and birth defects when used in pregnancy.
+Exposure Routes: Topical application, oral (supplements).
+
+2. Retinol/retinyl esters (in daily dosages > 10,000 IU)
+Category: Vitamin A, skin care agent, potential toxic dose
+Uses: Retinyl esters are used in cosmetics for their anti-aging benefits. At high doses, they are also used in dietary supplements to support eye health.
+Health Risks: Excessive intake (>10,000 IU daily) can lead to vitamin A toxicity, with symptoms including nausea, headaches, dizziness, and even liver damage or birth defects in pregnant women.
+Exposure Routes: Oral (supplements), topical (cosmetics).
+
+3. Retinyl palmitate
+Category: Vitamin A, skin care agent
+Uses: A stable form of vitamin A used in skin care products to promote healthy skin and reduce wrinkles.
+Health Risks: While less potent than retinol, it can still cause irritation and dryness in sensitive skin. High amounts can contribute to vitamin A toxicity.
+Exposure Routes: Topical application.
+
+4. Retinyl acetate
+Category: Vitamin A, skin care agent
+Uses: Used in skin care products to improve skin texture and reduce signs of aging.
+Health Risks: Like other forms of vitamin A, overuse can cause skin irritation and dryness. High doses can lead to vitamin A toxicity, which is harmful to the liver and may cause birth defects.
+Exposure Routes: Topical application.
+
+5. Cocamide
+Category: Surfactant, skin irritant
+Uses: Derived from coconut oil, used as a foaming agent in shampoos, soaps, and other personal care products.
+Health Risks: Cocamide can cause skin and eye irritation, and when combined with nitrites, it can form carcinogenic nitrosamines.
+Exposure Routes: Skin contact.
+
+6. All-trans retinoic acid
+Category: Vitamin A derivative, prescription medication
+Uses: Used in the treatment of acne, psoriasis, and other skin conditions.
+Health Risks: Can cause skin irritation, redness, and peeling. High doses or long-term use can lead to systemic toxicity, with symptoms such as headaches, nausea, and birth defects if used during pregnancy.
+Exposure Routes: Topical application, oral (prescription).
+
+7. Titanium dioxide
+Category: UV filter, potential carcinogen (inhaled form)
+Uses: Commonly used as a UV filter in sunscreens and as a white pigment in cosmetics.
+Health Risks: When inhaled in respirable size particles (such as in powder form), titanium dioxide is considered a possible carcinogen. It can also cause skin irritation in some individuals.
+Exposure Routes: Inhalation (in aerosolized form), topical application
+.
+8. Benzophenone-2
+Category: UV filter, endocrine disruptor
+Uses: Commonly used in sunscreens and cosmetics to absorb UV radiation.
+Health Risks: Benzophenone-2 has been shown to disrupt endocrine function by mimicking estrogen in the body. It may also cause skin irritation.
+Exposure Routes: Skin contact, absorption.
+
+9. Silica, crystalline (airborne particles of respirable size)
+Category: Carcinogen, lung irritant
+Uses: Used in industrial processes and some cosmetics as a thickening agent or absorbent.
+Health Risks: Inhalation of respirable crystalline silica can cause lung disease (silicosis), respiratory issues, and is classified as a human carcinogen.
+Exposure Routes: Inhalation.
+
+10. Carbon black (airborne, unbound particles of respirable size)
+Category: Carcinogen (when inhaled), respiratory irritant
+Uses: Used as a black pigment in inks, paints, and cosmetics.
+Health Risks: Inhalation of carbon black particles can cause respiratory issues, and prolonged exposure may lead to lung cancer.
+Exposure Routes: Inhalation.
+
+11. Carbon black
+Category: Carcinogen, irritant
+Uses: Used in the production of pigments, inks, and coatings.
+Health Risks: Long-term exposure to carbon black can lead to respiratory issues and is considered a potential carcinogen.
+Exposure Routes: Inhalation.
+
+12. Genistein (purified)
+Category: Phytoestrogen, antioxidant
+Uses: Found in soy products, used in supplements and cosmetics for its antioxidant and potential anti-aging effects.
+Health Risks: Genistein may act as a mild endocrine disruptor, potentially interfering with hormone function.
+Exposure Routes: Oral (supplements), topical (cosmetics).
+
+13. 2,4-Hexadienal (89% trans, trans isomer)
+Category: Volatile organic compound, irritant
+Uses: A fragrance ingredient used in perfumes and other products.
+Health Risks: Can cause skin and eye irritation, and inhalation may cause respiratory issues.
+Exposure Routes: Skin contact, inhalation.
+
+14. Methanol
+Category: Toxic, irritant
+Uses: Used as a solvent, antifreeze, and fuel.
+Health Risks: Methanol is highly toxic and can cause blindness, nervous system damage, and death if ingested.
+Exposure Routes: Inhalation, ingestion, skin contact.
+
+15. Formaldehyde solution
+Category: Carcinogen, irritant
+Uses: Used as a disinfectant, preservative, and in the production of resins and plastics.
+Health Risks: Formaldehyde is a known carcinogen and can cause respiratory irritation, allergic reactions, and skin damage.
+Exposure Routes: Inhalation, skin contact.
+
+16. Cocamide DEA
+Category: Carcinogen (when combined with nitrites), irritant
+Uses: Used as a surfactant in personal care products like shampoos and body washes.
+Health Risks: Can form nitrosamines, which are carcinogenic, and cause skin and eye irritation.
+Exposure Routes: Skin contact.
+
+17. Phenacemide
+Category: Unknown
+Uses: Limited use in cosmetics, particularly as a skin care agent.
+Health Risks: Information on its safety is limited; it may cause skin irritation in some cases.
+Exposure Routes: Skin contact.
+
+18. Benzophenone-4
+Category: UV filter, endocrine disruptor
+Uses: Commonly used in sunscreens and personal care products to protect against UV damage.
+Health Risks: Benzophenone-4 is suspected to be an endocrine disruptor, and may also cause skin irritation.
+Exposure Routes: Skin contact.
+
+19. Benzyl chloride
+Category: Toxic, irritant
+Uses: Used in the production of various chemicals, including fragrances and as a solvent.
+Health Risks: Benzyl chloride is a skin and eye irritant and can cause respiratory issues if inhaled.
+Exposure Routes: Skin contact, inhalation.
+
+20. N-Methylpyrrolidone (NMP)
+Category: Solvent, reproductive toxin
+Uses: Used as a solvent in pharmaceuticals, cosmetics, and industrial applications.
+Health Risks: NMP can cause reproductive toxicity, skin and eye irritation, and long-term exposure may affect the liver and kidneys.
+Exposure Routes: Skin contact, inhalation.
+
+21. 2-Propyleneacrolein
+Category: Toxic, irritant
+Uses: Intermediate in chemical production, primarily as a precursor to other chemicals.
+Health Risks: Propyleneacrolein is highly irritating to the eyes and respiratory system. It can also cause skin irritation.
+Exposure Routes: Inhalation, skin contact.
+
+22. Bisphenol A (BPA)
+Category: Endocrine disruptor
+Uses: Used in the production of polycarbonate plastics and epoxy resins.
+Health Risks: BPA has been linked to developmental and reproductive issues and may interfere with hormone function.
+Exposure Routes: Oral (via food packaging), skin contact.
+
+23. Sodium bromate
+Category: Carcinogen, toxic
+Uses: Used in the production of certain chemicals and as a flour improver.
+Health Risks: Sodium bromate is a carcinogen and can cause kidney and nervous system damage.
+Exposure Routes: Ingestion, inhalation.
+
+24. Coal tar extract
+Category: Carcinogen
+Uses: Used in the treatment of skin conditions like psoriasis and dandruff.
+Health Risks: Coal tar extract contains carcinogenic compounds and may cause skin irritation.
+Exposure Routes: Topical application.
+
+25. Arsenic (inorganic oxides)
+Category: Carcinogen, toxic
+Uses: Used in pesticides, wood preservatives, and some industrial applications.
+Health Risks: Arsenic exposure is linked to skin, lung, and bladder cancers, as well as developmental and neurological harm.
+Exposure Routes: Ingestion, inhalation.
+
+26. Cocamide diethanolamine (DEA)
+Category: Carcinogen (when combined with nitrites), irritant
+Uses: Used as a surfactant and emulsifying agent in personal care products.
+Health Risks: DEA can form carcinogenic nitrosamines and can cause skin and eye irritation.
+Exposure Routes: Skin contact, inhalation.
+
+27. Diethanolamides of the fatty acids of coconut oil
+Category: Surfactant, irritant
+Uses: Used in personal care products like shampoos and soaps as a foaming agent.
+Health Risks: Can cause skin irritation in some individuals and may lead to the formation of carcinogenic nitrosamines.
+Exposure Routes: Skin contact.
+
+28. Mica
+Category: Mineral, irritant
+Uses: Used in cosmetics and personal care products as a shimmering agent.
+Health Risks: Inhalation of mica dust can cause respiratory issues and lung irritation.
+Exposure Routes: Inhalation.
+
+29. Triethanolamine
+Category: Irritant, potential carcinogen
+Uses: Used in cosmetics and personal care products as a pH balancer and emulsifying agent.
+Health Risks: Triethanolamine can cause skin and eye irritation and may form carcinogenic nitrosamines.
+Exposure Routes: Skin contact, inhalation.
+
+
+
+Least Harmful
+
+
+1. Vitamin A (Retinol, Retinol Palmitate, Retinyl Acetate)
+Category: Vitamin, skin care ingredient
+Uses: These compounds are essential for skin health and are commonly found in anti-aging and acne treatments. 
+Retinol, Retinyl Palmitate, and Retinyl Acetate promote skin cell turnover, reduce wrinkles, and improve skin texture.
+Health Risks: High doses of Vitamin A or its derivatives can lead to toxicity. This can result in symptoms such as nausea, 
+headaches, and dizziness. In excessive topical use, they can cause skin irritation, redness, and peeling. Pregnant women should avoid high doses due to the risk of birth defects.
+Exposure Routes: Oral (supplements), topical (cosmetics).
+
+2. Caffeine
+Category: Stimulant, antioxidant
+Uses: Caffeine is used in skin care for its anti-inflammatory properties and its ability to reduce puffiness. It is also commonly consumed as a stimulant in coffee, tea, and energy drinks.
+Health Risks: When consumed in large amounts, caffeine can cause insomnia, anxiety, jitteriness, and elevated heart rate. Topical caffeine can sometimes cause irritation in sensitive individuals.
+Exposure Routes: Oral (consumed in beverages), topical (cosmetics).
+
+3. Mica
+Category: Mineral, exfoliant, pigment
+Uses: Mica is used as a filler and shimmer agent in cosmetics like eyeshadows, highlighters, and powders. It adds sparkle and smooth texture to the products.
+Health Risks: Inhalation of mica dust can cause respiratory problems, including lung irritation and a condition called "mica pneumoconiosis," particularly in industrial settings.
+Exposure Routes: Inhalation (when used in powdered form), skin contact.
+
+4. Cocamide
+Category: Surfactant, emulsifier
+Uses: Derived from coconut oil, cocamide is used in shampoos, body washes, and soaps as a foaming and emulsifying agent.
+Health Risks: Can cause skin and eye irritation, and when combined with nitrites, it can form carcinogenic nitrosamines.
+Exposure Routes: Skin contact.
+
+5. Polyquaternium
+Category: Conditioner, surfactant
+Uses: Used in hair care products to reduce static, smooth hair, and improve the texture of skin care products. Polyquaternium can also act as a preservative.
+Health Risks: Generally considered safe but can cause irritation in sensitive individuals. Some types may cause allergic reactions.
+Exposure Routes: Skin contact.
+
+6. Avobenzone
+Category: UV filter
+Uses: A broad-spectrum sunscreen agent that protects against both UVA and UVB rays, often used in sunscreens.
+Health Risks: While generally considered safe for use in sunscreen products, Avobenzone can cause skin irritation in sensitive individuals.
+ It may also degrade upon exposure to sunlight, reducing its effectiveness over time.
+Exposure Routes: Topical (sunscreens).
+
+7. Titanium dioxide
+Category: UV filter, pigment
+Uses: Used widely in sunscreens as a physical sunscreen agent that blocks UV radiation. It is also used as a white pigment in cosmetics.
+Health Risks: When inhaled in respirable-sized particles, titanium dioxide is considered a potential carcinogen. It can also cause mild skin irritation in some individuals.
+Exposure Routes: Topical (sunscreens, cosmetics), inhalation (in powder form).
+
+8. Coffee extract
+Category: Antioxidant, stimulant
+Uses: Used in skin care products for its antioxidant properties, coffee extract helps protect skin from environmental damage and may promote circulation.
+Health Risks: Coffee extract may cause skin irritation in sensitive individuals. When consumed in large amounts, caffeine from the extract can lead to jitteriness, dehydration, and sleep disturbances.
+Exposure Routes: Topical (cosmetics), oral (consumed in beverages).
+
+9. Cocamide DEA (Diethanolamine)
+Category: Surfactant, emulsifier
+Uses: Commonly used in personal care products like shampoos and body washes to help produce foam and improve texture.
+Health Risks: Cocamide DEA can form nitrosamines (potential carcinogens) when combined with nitrites. It can also cause skin irritation and is linked to liver damage in high exposures.
+Exposure Routes: Skin contact, inhalation.
+
+10. Benzophenone-3
+Category: UV filter, endocrine disruptor
+Uses: Used in sunscreens and personal care products to absorb UV rays and prevent damage.
+Health Risks: Benzophenone-3 has been shown to disrupt endocrine function, particularly by mimicking estrogen, and may lead to reproductive issues. It can also cause skin irritation.
+Exposure Routes: Topical (sunscreens, cosmetics).
+
+11. Bisphenol A (BPA)
+Category: Endocrine disruptor, industrial chemical
+Uses: Used in the production of plastics and resins, including food containers, water bottles, and thermal paper receipts.
+Health Risks: BPA is a well-known endocrine disruptor that may interfere with hormone functions and has been linked to developmental, reproductive, and metabolic disorders.
+Exposure Routes: Oral (via food and drink containers), skin contact (thermal paper receipts).
+
+12. Silica
+Category: Mineral, abrasive, thickener
+Uses: Used in cosmetics as a thickening agent and in products like toothpaste, powders, and deodorants. Silica is also used as an absorbent and anti-caking agent.
+Health Risks: Inhalation of crystalline silica particles can cause serious lung conditions such as silicosis and lung cancer, especially in industrial settings.
+Exposure Routes: Inhalation, skin contact.
+
+13. Sodium Bromate
+Category: Carcinogen, oxidizing agent
+Uses: Used in the baking industry as a dough conditioner, and in some water treatment processes.
+Health Risks: Sodium bromate is classified as a carcinogen and can cause kidney damage and neurological harm.
+Exposure Routes: Ingestion, inhalation.
+
+14. Tea-lauryl sulfate
+Category: Surfactant, cleansing agent
+Uses: Used in personal care products like shampoos and body washes as a cleansing and foaming agent.
+Health Risks: It may cause skin irritation, and prolonged exposure can lead to dry skin and scalp.
+Exposure Routes: Skin contact.
+
+15. Vitamin A
+Category: Essential vitamin
+Uses: Vitamin A, typically in the form of retinol or its esters (e.g., Retinyl Palmitate), is used for maintaining healthy skin and vision, and is an essential nutrient.
+Health Risks: In excess, Vitamin A can be toxic, causing symptoms like nausea, dizziness, and headaches. Overuse of topical Vitamin A can lead to skin irritation and peeling. Pregnant women should avoid high doses due to the risk of birth defects.
+Exposure Routes: Oral (dietary supplements), topical (skin care products).
