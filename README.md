@@ -39,7 +39,7 @@ Cleaning the data was difficult because there were many missing values (NaNs), m
 3) Canva - for introduction of Project
 4) Git - for version control
 
-## Data Sources
+## Sources
 To answer the above questions I used the following sources to collect datasets for my analysis
 
 1) Chemicals in Cosmetics: https://data.chhs.ca.gov/dataset/chemicals-in-cosmetics/resource/57da6c9a-41a7-44b0-ab8d-815ff2cd5913
