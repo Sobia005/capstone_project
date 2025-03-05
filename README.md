@@ -2,7 +2,7 @@
 
 ## PowerBI Dashboard
 
-Link: 
+Link: <iframe title="Cosmetics Capstone Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzAwNTVlZDUtZGI4ZS00YjA3LWJmZWItOThmYjcwNTA2NDU4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=a901bd60c688edc35d25" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
